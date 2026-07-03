@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/2fb094ea-56fe-4fe2-8c35-f8c776347f2f
 ## 📁 Estrutura do Repositório
 
 ```
-robo-segue-linha/
+Line-Following-Robot/
 ├── code/
 │   └── segue_linha.ino   # Código principal do Arduino
 └── README.md
